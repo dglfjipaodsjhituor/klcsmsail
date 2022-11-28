@@ -1035,7 +1035,7 @@ input:checked+.slider:before {
 }
 
 #ammoMax {
-    left: calc(50% + 102px);
+    left: calc(50% + 120px);
     bottom: -8px;
     font-family: LCD;
     font-size: 32px;
