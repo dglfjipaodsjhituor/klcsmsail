@@ -884,6 +884,10 @@ input:checked+.slider:before {
     display: none;
 }
 
+#zPerksHolder {
+    display: none;
+}
+
 #healthBar::before {
     content: " ";
     position: absolute;
@@ -981,7 +985,6 @@ input:checked+.slider:before {
     display: inline-block;
     font-size: 32px;
     font-family: gamefont;
-    transform: translate(-48px, 14px);
 }
 
 #challIcon {
