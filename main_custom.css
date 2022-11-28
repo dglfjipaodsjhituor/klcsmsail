@@ -1,18 +1,3 @@
-:root {
-    --accent: #B4FFDB;
-    --secondary: red;
-}
-
-@font-face {
-    font-family: gamefont;
-    src: url(https://fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_ZpC3gnD_g.woff2)
-}
-
-@font-face {
-    font-family: LCD;
-    src: url(./DigitalNumbers-Regular.ttf);
-}
-
 a, a:active, a:visited {
     color: var(--accent);
     text-shadow: 0 0 8px;
